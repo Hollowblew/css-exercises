@@ -1,3 +1,16 @@
-.common {
-    
+.odd {
+    background-color: rgba(255, 0, 0, 0.411);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.cooler {
+    font-size: 24px;
+}
+
+#unique1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#unique2 {
+    background-color: rgba(4, 249, 4, 0.445);
 }
