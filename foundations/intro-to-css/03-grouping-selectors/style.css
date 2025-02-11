@@ -1,14 +1,14 @@
-#click-me {
+.click-me,
+.no-click {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.click-me {
     background-color: black;
     color: white;
 }
 
-
-#not-click {
-    background-color: rgb(241, 241, 86);
-}
-
-.font-family {
-    font-family: "Helveltica", "Timer New Roman", sans-serif;
-    font-size: 28px;
+.no-click {
+    background-color: rgb(249, 249, 102);
 }
